@@ -1,10 +1,10 @@
 # 典迹・Monu
-2019年起制作、用于特定用途、有原创成分的整合实用字体系列。
-Monu 是 Monument（典迹）的缩写。
+2019年起制作、用于特定用途、有原创成分的整合实用字体系列。Monu 是 Monument（典迹）的缩写。\
+这些字体起初均为解决某个方面的个人需求，能用就行，因此有些从未公开。如今展示出来，以备有人需要。
 
-多为 [OFL1.1](http://scripts.sil.org/OFL) 协议，可 右键点击字体〉属性〉详细信息〉许可证描述 以查看。
+多为 [OFL1.1](http://scripts.sil.org/OFL) 协议，视窗系统可 右键点击字体〉属性〉详细信息〉许可证描述 以查看。
 
-包含如下字族，基本皆为无衬线风格。可点击本页上方不远处的菜单按钮<sup>(形如三点三横的)</sup>快速跳转。
+包含如下字族，大抵皆为无衬线风格。可点击本页上方不远处的菜单按钮<sup>(形如三点三横的)</sup>快速跳转。
 
 ## 典迹(无印)・Monu([QuQi](https://github.com/MY1L/QuQi))
 ![Monu.png](docs/Monu.png)<sup>2个字重</sup> ![Ital.png](docs/Ital.png)<sup>可变字重</sup>
@@ -18,7 +18,7 @@ Monu 是 Monument（典迹）的缩写。
 - [自作字体“Monu”介绍与其排版特性 (第十版)](https://www.bilibili.com/read/cv5018512)
 - [废废废柴天使的不等宽假名字体研制](https://www.bilibili.com/read/cv5457108)
 - [——若破折号不在统一码中该怎么办・Monu11α、……](https://www.bilibili.com/read/cv8280047)
-- [也该有人民币符号了・统一码14.0・Monu12……](https://www.bilibili.com/read/cv13183071)
+- [也该有人民币符号了・统一码14.0・Monu12……][Yuan]
 - ……
 
 ## 典迹末境・[Monu Last](https://github.com/MY1L/Unicode/blob/main/Last)
@@ -54,6 +54,7 @@ Monu 是 Monument（典迹）的缩写。
 ![Hani.png](docs/Hani.png)<sup>3个文件</sup>
 
 介绍：
+- [也该有人民币符号了・……][Yuan]
 - [尝试解决B站不显示【示亡号】的问题](https://www.bilibili.com/read/cv21481556)
 - [补了套迄今汉字最全的思源黑——Monu Han*](https://www.bilibili.com/read/cv21580181)
 - https://t.bilibili.com/813792669330309156 (只因Hani9.3)
@@ -61,6 +62,13 @@ Monu 是 Monument（典迹）的缩写。
 - [近期流水账；统一码C类奇葩汉字绘制](https://www.bilibili.com/read/cv27511908)
 - [一眼康熙：把拿康熙部首当汉字的文找出来——Monu Hani v9.6](https://www.bilibili.com/read/cv27961080)
 - ……
+
+## 典迹小契・[Monu Kits](https://github.com/MY1L/Unicode#kits--indexhtml)
+![Kits.png](docs/Kits.png)<sup>1个文件，旧版字形</sup>
+
+介绍：
+- https://t.bilibili.com/468124265307197745 (1个契丹小字黑体字形)
+- [契丹小字黑体组词・西夏文黑体试作](https://www.bilibili.com/read/cv9204898)
 
 ## 典迹数学・[Monu Math](https://github.com/MY1L/Unicode/releases/tag/Math)
 ![Math.png](docs/Math.png)<sup>1个文件</sup>
@@ -87,6 +95,7 @@ Monu 是 Monument（典迹）的缩写。
 
 未来计划：重做窄体西文与假名。
 
+[Yuan]: https://www.bilibili.com/read/cv13183071
 [wdth]: https://github.com/MY1L/Ctrl/blob/main/abbr.md#字宽
 
 ----
@@ -112,7 +121,7 @@ B站动态简介：
 ----
 
 > [!NOTE]
-> 以下为移出典迹系列的。
+> 以下移出典迹系列。
 
 ## ~~典迹…~~ → 尺规彩绘・[~~Monu…~~ → Ctrl Zsye](https://github.com/MY1L/Ctrl#zsye)
 ![Zsye.png](docs/Zsye.png)<sup>1个文件</sup>
