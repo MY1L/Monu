@@ -4,7 +4,7 @@
 
 多为 [OFL1.1](http://scripts.sil.org/OFL) 协议，视窗系统可 右键点击字体〉属性〉详细信息〉许可证描述 以查看。
 
-包含如下字族，大抵皆为无衬线风格。可点击本页上方不远处的菜单按钮<sup>(形如三点三横的)</sup>快速跳转。
+包含如下字族，大抵皆为无衬线风格。可点击本页上方不远处的菜单按钮<sup>[形如 ⋮≡ 的图标]</sup>快速跳转。
 
 ## 典迹(无印)・Monu([QuQi](https://github.com/MY1L/QuQi))
 ![Monu.png](docs/Monu.png)<sup>2个字重</sup> ![Ital.png](docs/Ital.png)<sup>可变字重</sup>
@@ -63,6 +63,12 @@
 - [近期流水账；统一码C类奇葩汉字绘制](https://www.bilibili.com/read/cv27511908)
 - [一眼康熙：把拿康熙部首当汉字的文找出来——Monu Hani v9.6](https://www.bilibili.com/read/cv27961080)
 - ⋯⋯
+
+## 典迹八一・[Monu Aug1](https://github.com/MY1L/Monu/releases/tag/Aug1)
+![Aug1.png](docs/Aug1.png)<sup>1个文件</sup>
+
+介绍：
+- [Ctrl Aug1|尺规⼋⼀：｢康熙字典｣黑体](https://www.bilibili.com/read/cv36588425)
 
 ## 典迹小契・[Monu Kits](https://github.com/MY1L/Unicode#kits--indexhtml)
 ![Kits.png](docs/Kits.png)<sup>1个文件，旧版字形</sup>
